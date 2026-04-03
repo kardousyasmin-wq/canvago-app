@@ -1,0 +1,17 @@
+{
+  "name": "CanvaGo",
+  "id": "canvago-app",
+  "version": "1.0.0",
+  "description": "A powerful Canva side panel app with Bulk Sync, Deep Swap, Shape Shadows, and The Park features.",
+  "type": "sidepanel",
+  "permissions": [
+    "design:content:read",
+    "design:content:write"
+  ],
+  "entryPoints": [
+    {
+      "type": "sidepanel",
+      "src": "src/index.html"
+    }
+  ]
+}
