@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --port 5000 --host 0.0.0.0",
-   "build": "vite build",
-    "preview": "vite preview"
+   "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
   },
   "dependencies": {
     "@canva/app-ui-kit": "^4.0.0",
